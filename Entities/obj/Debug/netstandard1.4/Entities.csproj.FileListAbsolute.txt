@@ -1,0 +1,7 @@
+c:\users\asus\documents\visual studio 2017\Projects\AngularDeneme\Entities\bin\Debug\netstandard1.4\Entities.deps.json
+c:\users\asus\documents\visual studio 2017\Projects\AngularDeneme\Entities\bin\Debug\netstandard1.4\Entities.dll
+c:\users\asus\documents\visual studio 2017\Projects\AngularDeneme\Entities\bin\Debug\netstandard1.4\Entities.pdb
+c:\users\asus\documents\visual studio 2017\Projects\AngularDeneme\Entities\obj\Debug\netstandard1.4\Entities.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2017\Projects\AngularDeneme\Entities\obj\Debug\netstandard1.4\Entities.AssemblyInfo.cs
+c:\users\asus\documents\visual studio 2017\Projects\AngularDeneme\Entities\obj\Debug\netstandard1.4\Entities.dll
+c:\users\asus\documents\visual studio 2017\Projects\AngularDeneme\Entities\obj\Debug\netstandard1.4\Entities.pdb

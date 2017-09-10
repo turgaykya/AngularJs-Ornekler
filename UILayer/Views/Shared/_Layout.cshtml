@@ -1,0 +1,79 @@
+﻿
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <title>Bootstrap Example</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script>
+</head>
+<body   ng-app="myApp"  ng-controller="myCtrl">
+
+    <nav class="navbar navbar-inverse">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="#">WebSiteName</a>
+            </div>
+            <ul class="nav navbar-nav">
+                <li class="active"><a href="#">Anasayfa</a></li>
+                <li><a href="#">Ürünler</a></li>
+                <li><a href="#">İletişim</a></li>
+            </ul>
+            <form class="navbar-form navbar-left">
+                <div class="form-group">
+                    <input type="text" class="form-control" placeholder="Search" ng-model="inputUrun">
+                </div>
+
+            </form>
+        </div>
+    </nav>
+
+    <div class="container">
+        <div class="btn-group btn-group-justified">
+            <ul class="list-inline">
+                <li class="list-inline-item">
+                    <label for="sel1">Select list:</label>
+                    <select class="form-control" id="sel1" ng-model="selected"> 
+                        <option value="" selected="selected">Kategori Seçiniz</option>
+                        <option  ng-repeat="x in kategori" value="{{x.Id}}">{{x.Ad}}</option>
+                    </select>
+                </li>
+                <li class="list-inline-item">
+                    <label for="sel1">Select list:</label>
+                    <select class="form-control" id="sel1" ng-model="selected2">
+                        <option value="" selected="selected">Kategori Seçiniz</option>
+                        <option ng-repeat="x in sehir" value="{{x.Id}}">{{x.Ad}}</option>
+                    </select>
+                </li>
+            </ul>
+        </div>
+        <h3>ÜRÜNLER</h3>
+        <ul class="list-group">
+            <li class="list-group-item" ng-repeat="x in urunler | filter:({KategoriId:kategoryList(),sehirId:SehirList(),Ad:inputUrun})">{{x.Ad}}</li>
+        </ul>
+
+        @RenderBody()
+    </div>
+
+    <script>
+        var app = angular.module("myApp", []);
+        app.controller("myCtrl", function ($scope, $http) {
+            $http.get("/Home/Gonder").then(function (response) {
+                $scope.urunler = response.data.Ürünler;
+                $scope.sehir = response.data.Şehir;
+                $scope.kategori = response.data.Kategori;
+                $scope.kategoryList = function () {
+                        return $scope.selected;
+                }
+                $scope.SehirList = function () {
+                    return $scope.selected2;
+                }
+            });
+        });
+    </script>
+
+</body>
+</html>

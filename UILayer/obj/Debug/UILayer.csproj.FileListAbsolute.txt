@@ -1,0 +1,116 @@
+c:\users\asus\documents\visual studio 2017\Projects\AngularDeneme\UILayer\bin\roslyn\csc.exe
+c:\users\asus\documents\visual studio 2017\Projects\AngularDeneme\UILayer\bin\roslyn\csc.exe.config
+c:\users\asus\documents\visual studio 2017\Projects\AngularDeneme\UILayer\bin\roslyn\csc.rsp
+c:\users\asus\documents\visual studio 2017\Projects\AngularDeneme\UILayer\bin\roslyn\csi.exe
+c:\users\asus\documents\visual studio 2017\Projects\AngularDeneme\UILayer\bin\roslyn\csi.rsp
+c:\users\asus\documents\visual studio 2017\Projects\AngularDeneme\UILayer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\asus\documents\visual studio 2017\Projects\AngularDeneme\UILayer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\asus\documents\visual studio 2017\Projects\AngularDeneme\UILayer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\asus\documents\visual studio 2017\Projects\AngularDeneme\UILayer\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\asus\documents\visual studio 2017\Projects\AngularDeneme\UILayer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\asus\documents\visual studio 2017\Projects\AngularDeneme\UILayer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\asus\documents\visual studio 2017\Projects\AngularDeneme\UILayer\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\asus\documents\visual studio 2017\Projects\AngularDeneme\UILayer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\asus\documents\visual studio 2017\Projects\AngularDeneme\UILayer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\asus\documents\visual studio 2017\Projects\AngularDeneme\UILayer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\asus\documents\visual studio 2017\Projects\AngularDeneme\UILayer\bin\roslyn\System.AppContext.dll
+c:\users\asus\documents\visual studio 2017\Projects\AngularDeneme\UILayer\bin\roslyn\System.Collections.Immutable.dll
+c:\users\asus\documents\visual studio 2017\Projects\AngularDeneme\UILayer\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\asus\documents\visual studio 2017\Projects\AngularDeneme\UILayer\bin\roslyn\System.IO.FileSystem.dll
+c:\users\asus\documents\visual studio 2017\Projects\AngularDeneme\UILayer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\asus\documents\visual studio 2017\Projects\AngularDeneme\UILayer\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\asus\documents\visual studio 2017\Projects\AngularDeneme\UILayer\bin\roslyn\vbc.exe
+c:\users\asus\documents\visual studio 2017\Projects\AngularDeneme\UILayer\bin\roslyn\vbc.exe.config
+c:\users\asus\documents\visual studio 2017\Projects\AngularDeneme\UILayer\bin\roslyn\vbc.rsp
+c:\users\asus\documents\visual studio 2017\Projects\AngularDeneme\UILayer\bin\roslyn\VBCSCompiler.exe
+c:\users\asus\documents\visual studio 2017\Projects\AngularDeneme\UILayer\bin\roslyn\VBCSCompiler.exe.config
+c:\users\asus\documents\visual studio 2017\Projects\AngularDeneme\UILayer\bin\UILayer.dll.config
+c:\users\asus\documents\visual studio 2017\Projects\AngularDeneme\UILayer\bin\UILayer.dll
+c:\users\asus\documents\visual studio 2017\Projects\AngularDeneme\UILayer\bin\UILayer.pdb
+c:\users\asus\documents\visual studio 2017\Projects\AngularDeneme\UILayer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\asus\documents\visual studio 2017\Projects\AngularDeneme\UILayer\bin\Microsoft.Web.Infrastructure.dll
+c:\users\asus\documents\visual studio 2017\Projects\AngularDeneme\UILayer\bin\System.Web.Helpers.dll
+c:\users\asus\documents\visual studio 2017\Projects\AngularDeneme\UILayer\bin\System.Web.Mvc.dll
+c:\users\asus\documents\visual studio 2017\Projects\AngularDeneme\UILayer\bin\System.Web.Razor.dll
+c:\users\asus\documents\visual studio 2017\Projects\AngularDeneme\UILayer\bin\System.Web.Webpages.Deployment.dll
+c:\users\asus\documents\visual studio 2017\Projects\AngularDeneme\UILayer\bin\System.Web.Webpages.dll
+c:\users\asus\documents\visual studio 2017\Projects\AngularDeneme\UILayer\bin\System.Web.Webpages.Razor.dll
+c:\users\asus\documents\visual studio 2017\Projects\AngularDeneme\UILayer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\asus\documents\visual studio 2017\Projects\AngularDeneme\UILayer\bin\System.Web.Razor.xml
+c:\users\asus\documents\visual studio 2017\Projects\AngularDeneme\UILayer\bin\System.Web.Webpages.xml
+c:\users\asus\documents\visual studio 2017\Projects\AngularDeneme\UILayer\bin\System.Web.Webpages.Deployment.xml
+c:\users\asus\documents\visual studio 2017\Projects\AngularDeneme\UILayer\bin\System.Web.Webpages.Razor.xml
+c:\users\asus\documents\visual studio 2017\Projects\AngularDeneme\UILayer\bin\System.Web.Helpers.xml
+c:\users\asus\documents\visual studio 2017\Projects\AngularDeneme\UILayer\bin\System.Web.Mvc.xml
+c:\users\asus\documents\visual studio 2017\Projects\AngularDeneme\UILayer\obj\Debug\UILayer.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2017\Projects\AngularDeneme\UILayer\obj\Debug\UILayer.dll
+c:\users\asus\documents\visual studio 2017\Projects\AngularDeneme\UILayer\obj\Debug\UILayer.pdb
+c:\users\asus\documents\visual studio 2017\Projects\AngularDeneme\UILayer\bin\Business.dll
+c:\users\asus\documents\visual studio 2017\Projects\AngularDeneme\UILayer\bin\Entities2.dll
+c:\users\asus\documents\visual studio 2017\Projects\AngularDeneme\UILayer\bin\DataK.dll
+c:\users\asus\documents\visual studio 2017\Projects\AngularDeneme\UILayer\bin\EntityFramework.dll
+c:\users\asus\documents\visual studio 2017\Projects\AngularDeneme\UILayer\bin\Business.pdb
+c:\users\asus\documents\visual studio 2017\Projects\AngularDeneme\UILayer\bin\Entities2.pdb
+c:\users\asus\documents\visual studio 2017\Projects\AngularDeneme\UILayer\bin\DataK.pdb
+c:\users\asus\documents\visual studio 2017\Projects\AngularDeneme\UILayer\bin\DataK.dll.config
+c:\users\asus\documents\visual studio 2017\Projects\AngularDeneme\UILayer\bin\EntityFramework.xml
+c:\users\asus\documents\visual studio 2017\Projects\AngularDeneme\UILayer\bin\EntityFramework.SqlServer.dll
+c:\users\asus\documents\visual studio 2017\Projects\AngularDeneme\UILayer\bin\EntityFramework.SqlServer.xml
+C:\Users\Asus\Desktop\Web & Mvc\MVC - Angular Filtreleme Örneği\UILayer\bin\roslyn\csc.exe
+C:\Users\Asus\Desktop\Web & Mvc\MVC - Angular Filtreleme Örneği\UILayer\bin\roslyn\csc.exe.config
+C:\Users\Asus\Desktop\Web & Mvc\MVC - Angular Filtreleme Örneği\UILayer\bin\roslyn\csc.rsp
+C:\Users\Asus\Desktop\Web & Mvc\MVC - Angular Filtreleme Örneği\UILayer\bin\roslyn\csi.exe
+C:\Users\Asus\Desktop\Web & Mvc\MVC - Angular Filtreleme Örneği\UILayer\bin\roslyn\csi.rsp
+C:\Users\Asus\Desktop\Web & Mvc\MVC - Angular Filtreleme Örneği\UILayer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Asus\Desktop\Web & Mvc\MVC - Angular Filtreleme Örneği\UILayer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Asus\Desktop\Web & Mvc\MVC - Angular Filtreleme Örneği\UILayer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Asus\Desktop\Web & Mvc\MVC - Angular Filtreleme Örneği\UILayer\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Asus\Desktop\Web & Mvc\MVC - Angular Filtreleme Örneği\UILayer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Asus\Desktop\Web & Mvc\MVC - Angular Filtreleme Örneği\UILayer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Asus\Desktop\Web & Mvc\MVC - Angular Filtreleme Örneği\UILayer\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Asus\Desktop\Web & Mvc\MVC - Angular Filtreleme Örneği\UILayer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Asus\Desktop\Web & Mvc\MVC - Angular Filtreleme Örneği\UILayer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Asus\Desktop\Web & Mvc\MVC - Angular Filtreleme Örneği\UILayer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Asus\Desktop\Web & Mvc\MVC - Angular Filtreleme Örneği\UILayer\bin\roslyn\System.AppContext.dll
+C:\Users\Asus\Desktop\Web & Mvc\MVC - Angular Filtreleme Örneği\UILayer\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Asus\Desktop\Web & Mvc\MVC - Angular Filtreleme Örneği\UILayer\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Asus\Desktop\Web & Mvc\MVC - Angular Filtreleme Örneği\UILayer\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Asus\Desktop\Web & Mvc\MVC - Angular Filtreleme Örneği\UILayer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Asus\Desktop\Web & Mvc\MVC - Angular Filtreleme Örneği\UILayer\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Asus\Desktop\Web & Mvc\MVC - Angular Filtreleme Örneği\UILayer\bin\roslyn\vbc.exe
+C:\Users\Asus\Desktop\Web & Mvc\MVC - Angular Filtreleme Örneği\UILayer\bin\roslyn\vbc.exe.config
+C:\Users\Asus\Desktop\Web & Mvc\MVC - Angular Filtreleme Örneği\UILayer\bin\roslyn\vbc.rsp
+C:\Users\Asus\Desktop\Web & Mvc\MVC - Angular Filtreleme Örneği\UILayer\bin\roslyn\VBCSCompiler.exe
+C:\Users\Asus\Desktop\Web & Mvc\MVC - Angular Filtreleme Örneği\UILayer\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Asus\Desktop\Web & Mvc\MVC - Angular Filtreleme Örneği\UILayer\bin\UILayer.dll.config
+C:\Users\Asus\Desktop\Web & Mvc\MVC - Angular Filtreleme Örneği\UILayer\bin\UILayer.dll
+C:\Users\Asus\Desktop\Web & Mvc\MVC - Angular Filtreleme Örneği\UILayer\bin\UILayer.pdb
+C:\Users\Asus\Desktop\Web & Mvc\MVC - Angular Filtreleme Örneği\UILayer\bin\Business.dll
+C:\Users\Asus\Desktop\Web & Mvc\MVC - Angular Filtreleme Örneği\UILayer\bin\Entities2.dll
+C:\Users\Asus\Desktop\Web & Mvc\MVC - Angular Filtreleme Örneği\UILayer\bin\EntityFramework.dll
+C:\Users\Asus\Desktop\Web & Mvc\MVC - Angular Filtreleme Örneği\UILayer\bin\EntityFramework.SqlServer.dll
+C:\Users\Asus\Desktop\Web & Mvc\MVC - Angular Filtreleme Örneği\UILayer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Asus\Desktop\Web & Mvc\MVC - Angular Filtreleme Örneği\UILayer\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Asus\Desktop\Web & Mvc\MVC - Angular Filtreleme Örneği\UILayer\bin\System.Web.Helpers.dll
+C:\Users\Asus\Desktop\Web & Mvc\MVC - Angular Filtreleme Örneği\UILayer\bin\System.Web.Mvc.dll
+C:\Users\Asus\Desktop\Web & Mvc\MVC - Angular Filtreleme Örneği\UILayer\bin\System.Web.Razor.dll
+C:\Users\Asus\Desktop\Web & Mvc\MVC - Angular Filtreleme Örneği\UILayer\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Asus\Desktop\Web & Mvc\MVC - Angular Filtreleme Örneği\UILayer\bin\System.Web.Webpages.dll
+C:\Users\Asus\Desktop\Web & Mvc\MVC - Angular Filtreleme Örneği\UILayer\bin\System.Web.Webpages.Razor.dll
+C:\Users\Asus\Desktop\Web & Mvc\MVC - Angular Filtreleme Örneği\UILayer\bin\DataK.dll
+C:\Users\Asus\Desktop\Web & Mvc\MVC - Angular Filtreleme Örneği\UILayer\bin\Business.pdb
+C:\Users\Asus\Desktop\Web & Mvc\MVC - Angular Filtreleme Örneği\UILayer\bin\Entities2.pdb
+C:\Users\Asus\Desktop\Web & Mvc\MVC - Angular Filtreleme Örneği\UILayer\bin\EntityFramework.xml
+C:\Users\Asus\Desktop\Web & Mvc\MVC - Angular Filtreleme Örneği\UILayer\bin\EntityFramework.SqlServer.xml
+C:\Users\Asus\Desktop\Web & Mvc\MVC - Angular Filtreleme Örneği\UILayer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Asus\Desktop\Web & Mvc\MVC - Angular Filtreleme Örneği\UILayer\bin\System.Web.Razor.xml
+C:\Users\Asus\Desktop\Web & Mvc\MVC - Angular Filtreleme Örneği\UILayer\bin\System.Web.Webpages.xml
+C:\Users\Asus\Desktop\Web & Mvc\MVC - Angular Filtreleme Örneği\UILayer\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Asus\Desktop\Web & Mvc\MVC - Angular Filtreleme Örneği\UILayer\bin\System.Web.Webpages.Razor.xml
+C:\Users\Asus\Desktop\Web & Mvc\MVC - Angular Filtreleme Örneği\UILayer\bin\System.Web.Helpers.xml
+C:\Users\Asus\Desktop\Web & Mvc\MVC - Angular Filtreleme Örneği\UILayer\bin\System.Web.Mvc.xml
+C:\Users\Asus\Desktop\Web & Mvc\MVC - Angular Filtreleme Örneği\UILayer\bin\DataK.pdb
+C:\Users\Asus\Desktop\Web & Mvc\MVC - Angular Filtreleme Örneği\UILayer\bin\DataK.dll.config
+C:\Users\Asus\Desktop\Web & Mvc\MVC - Angular Filtreleme Örneği\UILayer\obj\Debug\UILayer.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\Web & Mvc\MVC - Angular Filtreleme Örneği\UILayer\obj\Debug\UILayer.dll
+C:\Users\Asus\Desktop\Web & Mvc\MVC - Angular Filtreleme Örneği\UILayer\obj\Debug\UILayer.pdb

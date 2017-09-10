@@ -1,0 +1,14 @@
+c:\users\asus\documents\visual studio 2017\Projects\AngularDeneme\DataK\bin\Debug\DataK.dll.config
+c:\users\asus\documents\visual studio 2017\Projects\AngularDeneme\DataK\bin\Debug\DataK.dll
+c:\users\asus\documents\visual studio 2017\Projects\AngularDeneme\DataK\bin\Debug\DataK.pdb
+c:\users\asus\documents\visual studio 2017\Projects\AngularDeneme\DataK\bin\Debug\Entities2.dll
+c:\users\asus\documents\visual studio 2017\Projects\AngularDeneme\DataK\bin\Debug\EntityFramework.dll
+c:\users\asus\documents\visual studio 2017\Projects\AngularDeneme\DataK\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\asus\documents\visual studio 2017\Projects\AngularDeneme\DataK\bin\Debug\Entities2.pdb
+c:\users\asus\documents\visual studio 2017\Projects\AngularDeneme\DataK\bin\Debug\EntityFramework.xml
+c:\users\asus\documents\visual studio 2017\Projects\AngularDeneme\DataK\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\asus\documents\visual studio 2017\Projects\AngularDeneme\DataK\obj\Debug\DataK.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2017\Projects\AngularDeneme\DataK\obj\Debug\DataK.dll
+c:\users\asus\documents\visual studio 2017\Projects\AngularDeneme\DataK\obj\Debug\DataK.pdb
+c:\users\asus\documents\visual studio 2017\Projects\AngularDeneme\DataK\obj\Debug\DataK.Migrations.İlk.resources
+c:\users\asus\documents\visual studio 2017\Projects\AngularDeneme\DataK\obj\Debug\DataK.csproj.GenerateResource.Cache
